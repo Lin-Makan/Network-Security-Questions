@@ -1,0 +1,3800 @@
+CHAPTER 8 : NETWORK SECURITY
+
+<<<<<<<<<<<<<< NETWORK SECURITY >>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<                       >>>>>>>>>>>>>>>>>>>>
+________________________________________________
+ NETWORK SECURITY                               |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* NETWORK SECURITY 
+                                                                                        
+2) Definition of NETWORK SECURITY ?
+-----------------------------------
+*
+ 
+3) What is Network Security About ?
+-----------------------------------
+*
+*
+
+4) What does Network Security Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Network Security :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Network Security :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Network Security :
+---------------------------------
+*
+*
+
+______________________________________________________________________________________
+______________________________________________________________________________________
+
+<<<<<<<<<<<<<< FUNDAMENTALS OF NETWORK SECURITY >>>>>>>>>>>>>>>>>>>>
+
+FUNDAMENTALS OF NETWORK SECURITY 733
+8.1.1 Fundamental Security Principles 734
+8.1.2 Fundamental Attack Principles 736
+8.1.3 From Threats to Solutions 738
+________________________________________________
+ FUNDAMENTALS OF NETWORK SECURITY               |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* FUNDAMENTALS OF NETWORK SECURITY.
+                                                                                        
+2) Definition of Fundamentals Of Network Security ?
+---------------------------------------------------
+*
+ 
+3) What is Fundamentals Of Network Security About ?
+---------------------------------------------------
+*
+*
+
+4) What do Fundamentals Of Network Security Do ?
+------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Fundamentals Of Network Security :
+------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Fundamentals Of Network Security :
+---------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Fundamentals Of Network Security :
+-------------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+
+
+************** Fundamental Security Principles **************
+
+________________________________________________
+ Fundamental Security Principles                |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Fundamental Security Principles
+                                                                                        
+2) Definition of Fundamental Security Principles ?
+--------------------------------------------------
+*
+ 
+3) What is Fundamental Security Principles About ?
+--------------------------------------------------
+*
+*
+
+4) What does Fundamental Security Principles Do ?
+-------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Fundamental Security Principles :
+-----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Fundamental Security Principles :
+--------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Fundamental Security Principles :
+------------------------------------------------
+*
+* 
+
+_______________________________________________________________________________________
+
+************** Fundamental Attack Principles **************
+
+________________________________________________
+ Fundamental Attack Principles                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Fundamental Attack Principles
+                                                                                        
+2) Definition of Fundamental Attack Principles ?
+------------------------------------------------
+*
+ 
+3) What is Fundamental Attack Principles About ?
+------------------------------------------------
+*
+*
+
+4) What do Fundamental Attack Principles Do ?
+---------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Fundamental Attack Principles :
+---------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Fundamental Attack Principles :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Fundamental Attack Principles :
+----------------------------------------------
+*
+*   
+_____________________________________________________________________________________
+
+************** From Threats to Solutions **************
+
+________________________________________________
+ From Threats to Solutions                      |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* From Threats to Solutions
+                                                                                        
+2) Definition of From Threats to Solutions ?
+--------------------------------------------
+*
+ 
+3) What is From Threats to Solutions About ?
+--------------------------------------------
+*
+*
+
+4) What do From Threats to Solutions Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of From Threats to Solutions :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of From Threats to Solutions :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of From Threats to Solutions :
+------------------------------------------
+*
+*
+________________________________________________________________________________________
+________________________________________________________________________________________
+
+<<<<<<<<<<<<<<< THE CORE INGREDIENTS OF AN ATTACK >>>>>>>>>>>>>>>
+
+THE CORE INGREDIENTS OF AN ATTACK 739
+8.2.1 Reconnaissance 739
+8.2.2 Sniffing and Snooping (with a Dash of Spoofing) 742
+8.2.3 Spoofing (beyond ARP) 744
+8.2.4 Disruption 755 
+____________________________________________________________
+ THE CORE INGREDIENTS OF AN ATTACK                          |
+                                                            |                  
+____________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The Core Ingredients Of An Attack
+                                                                                        
+2) Definition of The Core Ingredients Of An Attack ?
+----------------------------------------------------
+*
+ 
+3) What is The Core Ingredients Of An Attack About ?
+----------------------------------------------------
+*
+*
+
+4) What does The Core Ingredients Of An Attack Do ?
+---------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The Core Ingredients Of An Attack :
+-------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages of The Core Ingredients Of An Attack :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Core Ingredients Of An Attack :
+--------------------------------------------------
+*
+*
+_____________________________________________________________________________________
+
+************ Reconnaissance *************
+
++ Port Scanning
++ Traceroute
+________________________________________________
+ Reconnaissance                                 |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Reconnaissance
+                                                                                        
+2) Definition of Reconnaissance ?
+---------------------------------
+*
+ 
+3) What is Reconnaissance About ?
+---------------------------------
+*
+*
+
+4) What does Reconnaissance Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Reconnaissance :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Reconnaissance :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of Reconnaissance :
+-------------------------------
+*
+*
+_____________________________________________________________________________________
+
+   \\\\\ Port Scanning /////  
+________________________________________________
+ Port Scanning                                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Port Scanning
+                                                                                        
+2) Definition of Port Scanning ?
+--------------------------------
+*
+ 
+3) What is Port Scanning About ?
+--------------------------------
+*
+*
+
+4) What does Port Scanning Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of Port Scanning :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Port Scanning :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of Port Scanning :
+------------------------------
+*
+*
+_____________________________________________________________________________________
+
+   \\\\\ Traceroute /////  
+________________________________________________
+ Traceroute                                     |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Traceroute
+                                                                                        
+2) Definition of Traceroute ?
+-----------------------------
+*
+ 
+3) What is Traceroute About ?
+-----------------------------
+*
+*
+
+4) What does Traceroute Do ?
+----------------------------
+*
+*
+
+5) Advantages/Benefits of Traceroute :
+--------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Traceroute :
+-----------------------------------------
+*
+*
+*  
+
+7) Examples of Traceroute :
+---------------------------
+*
+*
+____________________________________________________________________________________
+
+************ Sniffing and Snooping (with a Dash of Spoofing) ************
+
++ Sniffing in Switched Networks
+_____________________________________________________
+ Sniffing and Snooping (with a Dash of Spoofing)     |
+                                                     |                  
+_____________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Sniffing and Snooping (with a Dash of Spoofing)
+                                                                                        
+2) Definition of Sniffing and Snooping (with a Dash of Spoofing) ?
+------------------------------------------------------------------
+*
+ 
+3) What is Sniffing and Snooping (with a Dash of Spoofing) About ?
+------------------------------------------------------------------
+*
+*
+
+4) What do Sniffing and Snooping (with a Dash of Spoofing) Do ?
+---------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Sniffing and Snooping (with a Dash of Spoofing) :
+---------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Sniffing and Snooping (with a Dash of Spoofing) :
+------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Sniffing and Snooping (with a Dash of Spoofing) :
+----------------------------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+   \\\\\ Sniffing in Switched Networks /////  
+________________________________________________
+ Sniffing in Switched Networks                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Sniffing in Switched Networks
+                                                                                        
+2) Definition of Sniffing in Switched Networks ?
+------------------------------------------------
+*
+ 
+3) What is Sniffing in Switched Networks About ?
+------------------------------------------------
+*
+*
+
+4) What does Sniffing in Switched Networks Do ?
+-----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Sniffing in Switched Networks :
+---------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Sniffing in Switched Networks :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Sniffing in Switched Networks :
+----------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+************* Spoofing (beyond ARP) **************
+
++ DNS Spoofing
++ Birthday Attack
++ Kaminsky Attack
++ TCP Spoofing
++ TCP Connection Hijacking
++ Off-Path TCP Exploits
+________________________________________________
+ Spoofing (beyond ARP)                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Sub-Heading ?
+---------------------------
+* Spoofing (beyond ARP) 
+                                                                                        
+2) Definition of Spoofing (beyond ARP) ?
+----------------------------------------
+*
+ 
+3) What is Spoofing (beyond ARP) About ?
+----------------------------------------
+*
+*
+
+4) What do Spoofing (beyond ARP) Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Spoofing (beyond ARP) :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Spoofing (beyond ARP) :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Spoofing (beyond ARP) :
+--------------------------------------
+*
+*
+
+____________________________________________________________________________________
+
+   \\\\\ DNS Spoofing /////  
+________________________________________________
+ DNS Spoofing                                   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* DNS Spoofing
+                                                                                        
+2) Definition of DNS Spoofing ?
+-------------------------------
+*
+ 
+3) What is DNS Spoofing About ?
+-------------------------------
+*
+*
+
+4) What does DNS Spoofing Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of DNS Spoofing :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of DNS Spoofing :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of DNS Spoofing :
+-----------------------------
+*
+*
+______________________________________________________________________________________
+
+      \\\\ Birthday Attack ////
+________________________________________________
+ Birthday Attack                                |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Birthday Attack
+                                                                                        
+2) Definition of Birthday Attack ?
+----------------------------------
+*
+ 
+3) What is Birthday Attack About ?
+----------------------------------
+*
+*
+
+4) What does Birthday Attack Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Birthday Attack :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Birthday Attack :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Birthday Attack :
+--------------------------------
+*
+*
+______________________________________________________________________________________
+
+            \\\\ Kaminsky Attack ////
+________________________________________________
+ Kaminsky Attack                                |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Kaminsky Attack 
+                                                                                        
+2) Definition of Kaminsky Attack ?
+----------------------------------
+*
+ 
+3) What is Kaminsky Attack About ?
+----------------------------------
+*
+*
+
+4) What does Kaminsky Attack Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Kaminsky Attack :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Kaminsky Attack :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of Kaminsky Attack :
+--------------------------------
+*
+*
+______________________________________________________________________________________
+
+            \\\\ TCP Spoofing ////
+________________________________________________
+ TCP Spoofing                                   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* TCP Spoofing 
+                                                                                        
+2) Definition of TCP Spoofing ?
+-------------------------------
+*
+ 
+3) What is TCP Spoofing About ?
+-------------------------------
+*
+*
+
+4) What does TCP Spoofing Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of TCP Spoofing :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of TCP Spoofing :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of TCP Spoofing :
+-----------------------------
+*
+*
+______________________________________________________________________________________
+
+   \\\\\ TCP Connection Hijacking /////  
+________________________________________________
+ TCP Connection Hijacking                       |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* TCP Connection Hijacking
+                                                                                        
+2) Definition of TCP Connection Hijacking ?
+-------------------------------------------
+*
+ 
+3) What is TCP Connection Hijacking About ?
+-------------------------------------------
+*
+*
+
+4) What does TCP Connection Hijacking Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of TCP Connection Hijacking :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of TCP Connection Hijacking :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of TCP Connection Hijacking :
+-----------------------------------------
+*
+*
+______________________________________________________________________________________
+
+      \\\\ Off-Path TCP Exploits ////
+________________________________________________
+ Off-Path TCP Exploits                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Off-Path TCP Exploits
+                                                                                        
+2) Definition of Off-Path TCP Exploits ?
+----------------------------------------
+*
+ 
+3) What is Off-Path TCP Exploits About ?
+----------------------------------------
+*
+*
+
+4) What does Off-Path TCP Exploits Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Off-Path TCP Exploits :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Off-Path TCP Exploits :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Off-Path TCP Exploits :
+--------------------------------------
+*
+*
+_____________________________________________________________________________________
+
+************ Disruption ************
+
++ SYN Flooding
++ Reflection and Amplification in DDoS Attacks
++ Defending against DDoS Attacks
+________________________________________________
+ Disruption                                     |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Disruption 
+                                                                                        
+2) Definition of Disruption ?
+-----------------------------
+*
+ 
+3) What is Disruption About ?
+-----------------------------
+*
+*
+
+4) What does Disruption Do ?
+----------------------------
+*
+*
+
+5) Advantages/Benefits of Disruption :
+--------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Disruption :
+-----------------------------------------
+*
+*
+*  
+
+7) Examples of Disruption :
+---------------------------
+*
+*
+
+______________________________________________________________________________________
+
+   \\\\\ SYN Flooding /////  
+________________________________________________
+ SYN Flooding                                   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* SYN Flooding
+                                                                                        
+2) Definition of SYN Flooding ?
+-------------------------------
+*
+ 
+3) What is SYN Flooding About ?
+-------------------------------
+*
+*
+
+4) What does SYN Flooding Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of SYN Flooding :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SYN Flooding :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of SYN Flooding :
+-----------------------------
+*
+*
+______________________________________________________________________________________
+
+      \\\\ Reflection and Amplification in DDoS Attacks ////
+________________________________________________
+ Reflection and Amplification in DDoS Attacks   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Reflection and Amplification in DDoS Attacks
+                                                                                        
+2) Definition of Reflection and Amplification in DDoS Attacks ?
+---------------------------------------------------------------
+*
+ 
+3) What is Reflection and Amplification in DDoS Attacks About ?
+---------------------------------------------------------------
+*
+*
+
+4) What does Reflection and Amplification in DDoS Attacks Do ?
+--------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Reflection and Amplification in DDoS Attacks :
+------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Reflection and Amplification in DDoS Attacks :
+---------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Reflection and Amplification in DDoS Attacks :
+-------------------------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+            \\\\ Defending against DDoS Attacks ////
+________________________________________________
+ Defending against DDoS Attacks                 |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Defending against DDoS Attacks 
+                                                                                        
+2) Definition of Defending against DDoS Attacks ?
+-------------------------------------------------
+*
+ 
+3) What is Defending against DDoS Attacks About ?
+-------------------------------------------------
+*
+*
+
+4) What does Defending against DDoS Attacks Do ?
+------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Defending against DDoS Attacks :
+----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Defending against DDoS Attacks :
+-------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Defending against DDoS Attacks :
+-----------------------------------------------
+*
+*
+
+______________________________________________________________________________________
+
+<<<<<<<<<<<<<<<< FIREWALLS AND INTRUSION DETECTION SYSTEMS >>>>>>>>>>>>>>>>>>>>>
+ 
+FIREWALLS AND INTRUSION DETECTION SYSTEMS 759
+8.3.1 Firewalls 760
+8.3.2 Intrusion Detection and Prevention 762
+________________________________________________
+ Firewalls And Intrusion Detection Systems      |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Firewalls And Intrusion Detection Systems
+                                                                                        
+2) Definition of Firewalls And Intrusion Detection Systems ?
+------------------------------------------------------------
+*
+ 
+3) What is Firewalls And Intrusion Detection Systems About ?
+------------------------------------------------------------
+*
+*
+
+4) What do Firewalls And Intrusion Detection Systems Do ?
+---------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Firewalls And Intrusion Detection Systems :
+---------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Firewalls And Intrusion Detection Systems :
+------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Firewalls And Intrusion Detection Systems :
+----------------------------------------------------------
+*
+*
+_____________________________________________________________________________________
+
+************** Firewalls ***************
+
+________________________________________________
+ Firewalls                                      |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Firewalls
+                                                                                        
+2) Definition of Firewalls ?
+----------------------------
+*
+ 
+3) What is Firewalls About ?
+----------------------------
+*
+*
+
+4) What do Firewalls Do ?
+-------------------------
+*
+*
+
+5) Advantages/Benefits of Firewalls :
+-------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Firewalls :
+----------------------------------------
+*
+*
+*  
+
+7) Examples of Firewalls :
+--------------------------
+*
+*
+_____________________________________________________________________________________
+
+************** Intrusion Detection and Prevention **************
+
+________________________________________________
+ Intrusion Detection and Prevention             |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Intrusion Detection and Prevention
+                                                                                        
+2) Definition of Intrusion Detection and Prevention ?
+-----------------------------------------------------
+*
+ 
+3) What is Intrusion Detection and Prevention About ?
+-----------------------------------------------------
+*
+*
+
+4) What do Intrusion Detection and Prevention Do ?
+--------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Intrusion Detection and Prevention :
+--------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Intrusion Detection and Prevention :
+-----------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Intrusion Detection and Prevention :
+---------------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+<<<<<<<<<<<<<< CRYPTOGRAPHY >>>>>>>>>>>>>>>>
+
+CRYPTOGRAPHY 766
+8.4.1 Introduction to Cryptography 767
+8.4.2 Two Fundamental Cryptographic Principles 769
+8.4.3 Substitution Ciphers 771
+8.4.4 Transposition Ciphers
+8.4.5 One-Time Pads 774
+________________________________________________
+  CRYPTOGRAPHY                                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Cryptography
+                                                                                        
+2) Definition of Cryptography ?
+-------------------------------
+*
+ 
+3) What is Cryptography About ?
+-------------------------------
+*
+*
+
+4) What does Cryptography Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of Cryptography :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Cryptography :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of Cryptography :
+-----------------------------
+*
+*
+______________________________________________________________________________________
+
+*************** Introduction to Cryptography *******************    
+________________________________________________
+ Introduction to Cryptography                   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Introduction to Cryptography
+                                                                                        
+2) Definition of Introduction to Cryptography ?
+-----------------------------------------------
+*
+ 
+3) What is Introduction to Cryptography About ?
+-----------------------------------------------
+*
+*
+
+4) What does Introduction to Cryptography Do ?
+----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Introduction to Cryptography :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Introduction to Cryptography :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Introduction to Cryptography :
+---------------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+************ Two Fundamental Cryptographic Principles ***************
+
++ Redundancy
++ Freshness
+________________________________________________
+ Two Fundamental Cryptographic Principles       |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Two Fundamental Cryptographic Principles
+                                                                                        
+2) Definition of Two Fundamental Cryptographic Principles ?
+-----------------------------------------------------------
+*
+ 
+3) What is Two Fundamental Cryptographic Principles About ?
+-----------------------------------------------------------
+*
+*
+
+4) What do Two Fundamental Cryptographic Principles Do ?
+--------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Two Fundamental Cryptographic Principles :
+--------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Two Fundamental Cryptographic Principles :
+-----------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Two Fundamental Cryptographic Principles :
+---------------------------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+            \\\\ Redundancy ////
+________________________________________________
+ Redundancy                                     |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Redundancy 
+                                                                                        
+2) Definition of Redundancy ?
+-----------------------------
+*
+ 
+3) What is Redundancy About ?
+-----------------------------
+*
+*
+
+4) What does Redundancy Do ?
+----------------------------
+*
+*
+
+5) Advantages/Benefits of Redundancy :
+--------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Redundancy :
+-----------------------------------------
+*
+*
+*  
+
+7) Examples of Redundancy :
+---------------------------
+*
+*
+____________________________________________________________________________________________
+
+            \\\\ Freshness ////
+________________________________________________
+ Freshness                                      |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Freshness 
+                                                                                        
+2) Definition of Freshness ?
+----------------------------
+*
+ 
+3) What is Freshness About ?
+----------------------------
+*
+*
+
+4) What does Freshness Do ?
+---------------------------
+*
+*
+
+5) Advantages/Benefits of Freshness :
+-------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Freshness :
+----------------------------------------
+*
+*
+*  
+
+7) Examples of Freshness :
+--------------------------
+*
+*
+______________________________________________________________________________
+
+*********** Substitution Ciphers *************
+________________________________________________
+ Substitution Ciphers                           |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Substitution Ciphers                                                                                        
+2) Definition of Substitution Ciphers ?
+---------------------------------------
+*
+ 
+3) What is The User Agent About ?
+---------------------------------
+*
+*
+
+4) What does Substitution Ciphers Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Substitution Ciphers :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Substitution Ciphers :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Substitution Ciphers :
+--------------------------------------
+*
+*
+______________________________________________________________________________________
+
+************ Transposition Ciphers *************
+
+________________________________________________
+ Transposition Ciphers                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Transposition Ciphers
+                                                                                        
+2) Definition of Transposition Ciphers ?
+----------------------------------------
+*
+ 
+3) What is Transposition Ciphers About ?
+----------------------------------------
+*
+*
+
+4) What does Transposition Ciphers Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Transposition Ciphers :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Transposition Ciphers :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Transposition Ciphers :
+--------------------------------------
+*
+*
+______________________________________________________________________________________
+
+************** One-Time Pads *****************
+
++ Quantum Cryptography
+________________________________________________
+ One-Time Pads                                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* One-Time Pads 
+                                                                                        
+2) Definition of One-Time Pads ?
+--------------------------------
+*
+ 
+3) What is One-Time Pads About ?
+--------------------------------
+*
+*
+
+4) What does One-Time Pads Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of One-Time Pads :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of One-Time Pads :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of One-Time Pads :
+------------------------------
+*
+*
+______________________________________________________________________________________
+
+            \\\\ Quantum Cryptography ////
+________________________________________________
+ Quantum Cryptography                           |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Quantum Cryptography 
+                                                                                        
+2) Definition of Quantum Cryptography ?
+---------------------------------------
+*
+ 
+3) What is Quantum Cryptography About ?
+---------------------------------------
+*
+*
+
+4) What does Quantum Cryptography Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Quantum Cryptography :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Quantum Cryptography :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Quantum Cryptography :
+-------------------------------------
+*
+*
+_____________________________________________________________________________________
+
+<<<<<<<<<<<<<<<<< SYMMETRIC-KEY ALGORITHMS >>>>>>>>>>>>>>>>>
+__________________________________________________
+ Symmetric-Key Algorithms                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Symmetric-Key Algorithms 
+                                                                                        
+2) Definition of Symmetric-Key Algorithms ?
+-------------------------------------------
+*
+ 
+3) What is Symmetric-Key Algorithms About ?
+-------------------------------------------
+*
+*
+
+4) What does Symmetric-Key Algorithms Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Symmetric-Key Algorithms :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Symmetric-Key Algorithms :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Symmetric-Key Algorithms :
+-----------------------------------------
+*
+*
+____________________________________________________________________________________
+
+*********** The Data Encryption Standard **********
+________________________________________________
+ The Data Encryption Standard                   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* The Data Encryption Standard
+                                                                                        
+2) Definition of The Data Encryption Standard ?
+-----------------------------------------------
+*
+ 
+3) What is The Data Encryption Standard About ?
+-----------------------------------------------
+*
+*
+
+4) What does The Data Encryption Standard Do ?
+----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The Data Encryption Standard :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Data Encryption Standard :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Data Encryption Standard :
+---------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+************** The Advanced Encryption Standard ***************
+
++ Rijndael
+_____________________________________________________
+ The Advanced Encryption Standard                    |
+                                                     |                  
+_____________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* The Advanced Encryption Standard
+                                                                                        
+2) Definition of The Advanced Encryption Standard ?
+---------------------------------------------------
+*
+ 
+3) What is The Advanced Encryption Standard About ?
+---------------------------------------------------
+*
+*
+
+4) What does The Advanced Encryption Standard Do ?
+--------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of The Advanced Encryption Standard :
+------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Advanced Encryption Standard :
+---------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Advanced Encryption Standard :
+-------------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+      \\\\ Rijndael ////
+__________________________________________________
+ Rijndael                                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Rijndael 
+                                                                                        
+2) Definition of Rijndael ?
+---------------------------
+*
+ 
+3) What is Rijndael About ?
+---------------------------
+*
+*
+
+4) What does Rijndael Do ?
+--------------------------
+*
+*
+
+5) Advantages/Benefits of Rijndael :
+------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Rijndael :
+---------------------------------------
+*
+*
+*  
+
+7) Examples of Rijndael :
+-------------------------
+*
+*
+_____________________________________________________________________________________
+
+************** Cipher Modes ***************
+
++ Electronic Code Book Mode
++ Cipher Block Chaining Mode
++ Cipher Feedback Mode
++ Stream Cipher Mode 
+__________________________________________________
+ Cipher Modes                                     |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Cipher Modes
+                                                                                        
+2) Definition of Cipher Modes ?
+-------------------------------
+*
+ 
+3) What is Cipher Modes About ?
+-------------------------------
+*
+*
+
+4) What does Cipher Modes Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of Cipher Modes :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Cipher Modes :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of Cipher Modes :
+-----------------------------
+*
+*
+_____________________________________________________________________________________
+
+    \\\\ Electronic Code Book Mode ////
+
+________________________________________________
+Electronic Code Book Mode                       |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Electronic Code Book Mode
+                                                                                        
+2) Definition of Electronic Code Book Mode ?
+--------------------------------------------
+*
+ 
+3) What is Electronic Code Book Mode About ?
+--------------------------------------------
+*
+*
+
+4) What does Electronic Code Book Mode Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Electronic Code Book Mode :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Electronic Code Book Mode :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Electronic Code Book Mode :
+------------------------------------------ 
+*
+*
+_______________________________________________________________________________________
+
+      \\\\ Cipher Block Chaining Mode ////
+________________________________________________
+ Cipher Block Chaining Mode                     |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Cipher Block Chaining Mode
+                                                                                        
+2) Definition of Cipher Block Chaining Mode ?
+---------------------------------------------
+*
+ 
+3) What is Cipher Block Chaining Mode About ?
+---------------------------------------------
+*
+*
+
+4) What does Cipher Block Chaining Mode Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Cipher Block Chaining Mode :
+------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Cipher Block Chaining Mode :
+---------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Cipher Block Chaining Mode :
+-------------------------------------------
+*
+*
+______________________________________________________________________________________
+
+      \\\\ Cipher Feedback Mode ////
+________________________________________________
+ Cipher Feedback Mode                           |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Cipher Feedback Mode
+                                                                                        
+2) Definition of Cipher Feedback Mode ?
+---------------------------------------
+*
+ 
+3) What is Cipher Feedback Mode About ?
+---------------------------------------
+*
+*
+
+4) What does Cipher Feedback Mode Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Cipher Feedback Mode :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Cipher Feedback Mode :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Cipher Feedback Mode :
+-------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+   \\\\ Stream Cipher Mode ////
+
+________________________________________________
+ Stream Cipher Mode                             |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Stream Cipher Mode 
+                                                                                        
+2) Definition of Stream Cipher Mode ?
+-------------------------------------
+*
+ 
+3) What is Stream Cipher Mode About ?
+-------------------------------------
+*
+*
+
+4) What does Stream Cipher Mode Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Stream Cipher Mode :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Stream Cipher Mode :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Stream Cipher Mode  :
+-----------------------------------
+*
+*
+___________________________________________________________________________________
+___________________________________________________________________________________
+
+<<<<<<<<<<<<< PUBLIC-KEY ALGORITHMS >>>>>>>>>>>>>
+
+PUBLIC-KEY ALGORITHMS 787
+8.6.1 RSA 788
+8.6.2 Other Public-Key Algorithms 790
+________________________________________________
+ Public-Key Algorithms                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Public-Key Algorithms 
+                                                                                        
+2) Definition of Public-Key Algorithms ?
+----------------------------------------
+*
+ 
+3) What is Public-Key Algorithms About ?
+----------------------------------------
+*
+*
+
+4) What do Public-Key Algorithms Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Public-Key Algorithms :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Public-Key Algorithms :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Public-Key Algorithms :
+--------------------------------------
+*
+*
+______________________________________________________________________________________
+______________________________________________________________________________________
+
+<<<<<<<<<<<<< DIGITAL SIGNATURES >>>>>>>>>>>>>>
+
+DIGITAL SIGNATURES 791
+8.7.1 Symmetric-Key Signatures 791
+8.7.2 Public-Key Signatures 793
+8.7.3 Message Digests 795
+8.7.4 The Birthday Attack 797
+_________________________________________________
+ Digital Signatures                              |
+                                                 |                  
+_________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Digital Signatures
+                                                                                        
+2) Definition of Digital Signatures ?
+-------------------------------------
+*
+ 
+3) What is Digital Signatures About ?
+-------------------------------------
+*
+*
+
+4) What does Digital Signatures Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Digital Signatures :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Digital Signatures :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Digital Signatures :
+-----------------------------------
+*
+*
+_____________________________________________________________________________________
+
+  \\\\ Symmetric-Key Signatures ////
+________________________________________________
+ Symmetric-Key Signatures                       |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Symmetric-Key Signatures 
+                                                                                        
+2) Definition of Symmetric-Key Signatures ?
+-------------------------------------------
+*
+ 
+3) What is Symmetric-Key Signatures About ?
+-------------------------------------------
+*
+*
+
+4) What does Symmetric-Key Signatures Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Symmetric-Key Signatures :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Symmetric-Key Signatures :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Symmetric-Key Signatures :
+-----------------------------------------
+*
+*
+______________________________________________________________________________________
+
+******** Public-Key Signatures ********
+________________________________________________
+ Public-Key Signatures                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Public-Key Signatures 
+                                                                                        
+2) Definition of Public-Key Signatures ?
+----------------------------------------
+*
+ 
+3) What is Public-Key Signatures About ?
+----------------------------------------
+*
+*
+
+4) What do Public-Key Signatures Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Public-Key Signatures :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Public-Key Signatures :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Public-Key Signatures :
+--------------------------------------
+*
+*
+______________________________________________________________________________________
+
+******** Message Digests ********
+
+- SHA-1, SHA-2 and SHA-3
+________________________________________________
+ Message Digests                                |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Message Digests  
+                                                                                        
+2) Definition of Message Digests ?
+----------------------------------
+*
+ 
+3) What is Message Digests  About ?
+-----------------------------------
+*
+*
+
+4) What do Message Digests Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of Message Digests :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Message Digests  :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Message Digests :
+--------------------------------
+*
+*
+______________________________________________________________________________________
+
+    \\\\ SHA-1, SHA-2 and SHA-3 ////
+_________________________________________________
+ SHA-1, SHA-2 and SHA-3                          |
+                                                 |                  
+_________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* SHA-1, SHA-2 and SHA-3
+                                                                                        
+2) Definition of SHA-1, SHA-2 and SHA-3 ?
+-----------------------------------------
+*
+ 
+3) What is SHA-1, SHA-2 and SHA-3 About ?
+-----------------------------------------
+*
+*
+
+4) What does SHA-1, SHA-2 and SHA-3 Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of SHA-1, SHA-2 and SHA-3 :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of SHA-1, SHA-2 and SHA-3 :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of SHA-1, SHA-2 and SHA-3 :
+---------------------------------------
+* 
+* 
+_____________________________________________________________________________________
+
+************* The Birthday Attack ****************
+________________________________________________
+ The Birthday Attack                            |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* The Birthday Attack 
+                                                                                        
+2) Definition of The Birthday Attack ?
+--------------------------------------
+*
+ 
+3) What is The Birthday Attack About ?
+--------------------------------------
+*
+*
+
+4) What does The Birthday Attack Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of The Birthday Attack :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of The Birthday Attack :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of The Birthday Attack :
+------------------------------------
+*
+*
+______________________________________________________________________________________
+______________________________________________________________________________________
+
+<<<<<<<<<<<<<<<<< MANAGEMENT OF PUBLIC KEYS >>>>>>>>>>>>>>>>>>>
+
+MANAGEMENT OF PUBLIC KEYS 799
+8.8.1 Certificates 799
+8.8.2 X.509 801
+8.8.3 Public Key Infrastructures 802
+________________________________________________
+ Management Of Public Keys                      |
+                                                |                   
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Management Of Public Keys  
+                                                                                        
+2) Definition of Management Of Public Keys ?
+--------------------------------------------
+*
+ 
+3) What is Management Of Public Keys About ?
+--------------------------------------------
+*
+*
+
+4) What does Management Of Public Keys Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Management Of Public Keys :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Management Of Public Keys :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Management Of Public Keys :
+------------------------------------------
+*
+*
+_____________________________________________________________________________________
+
+********* Certificates ***********
+_________________________________________________
+ Certificates                                    |
+                                                 |                  
+_________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Certificates 
+                                                                                        
+2) Definition of Certificates ?
+-------------------------------
+*
+ 
+3) What is Certificates About ?
+-------------------------------
+*
+*
+
+4) What does Certificates Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of Certificates :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Certificates :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of Certificates :
+-----------------------------
+* 
+* 
+_____________________________________________________________________________________
+
+********** X.509 ***********
+________________________________________________
+ X.509                                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* X.509  
+                                                                                        
+2) Definition of X.509 ?
+------------------------
+*
+ 
+3) What is X.509 About ?
+------------------------
+*
+*
+
+4) What does X.509 Do ?
+-----------------------
+*
+*
+
+5) Advantages/Benefits of X.509 :
+---------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of X.509 :
+------------------------------------
+*
+*
+*  
+
+7) Examples of X.509 :
+----------------------
+*
+*
+_______________________________________________________________________________________
+
+************* Public Key Infrastructures ****************
+
++ Directories
++ Revocation
+_________________________________________________
+ Public Key Infrastructures                      |
+                                                 |                  
+_________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Public Key Infrastructures 
+                                                                                        
+2) Definition of Public Key Infrastructures ?
+---------------------------------------------
+*
+ 
+3) What is Public Key Infrastructures About ?
+---------------------------------------------
+*
+*
+
+4) What does Public Key Infrastructures Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Public Key Infrastructures :
+------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Public Key Infrastructures :
+---------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Public Key Infrastructures :
+-------------------------------------------
+* 
+* 
+_____________________________________________________________________________________
+
+  \\\\ Directories ////
+________________________________________________
+ Directories                                    |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Directories 
+                                                                                        
+2) Definition of Directories ?
+------------------------------
+*
+ 
+3) What is Directories About ?
+------------------------------
+*
+*
+
+4) What does Directories Do ?
+-----------------------------
+*
+*
+
+5) Advantages/Benefits of Directories :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Directories :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of Directories :
+----------------------------
+*
+*
+______________________________________________________________________________________
+
+    \\\\ Revocation ////
+_________________________________________________
+ Revocation                                      |
+                                                 |                  
+_________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Revocation
+                                                                                        
+2) Definition of Revocation ?
+-----------------------------
+*
+ 
+3) What is Revocation About ?
+-----------------------------
+*
+*
+
+4) What does Revocation Do ?
+----------------------------
+*
+*
+
+5) Advantages/Benefits of Revocation :
+--------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Revocation :
+-----------------------------------------
+*
+*
+*  
+
+7) Examples of Revocation :
+---------------------------
+* 
+* 
+_____________________________________________________________________________________
+
+<<<<<<<<<<<<<<< AUTHENTIFICATION PROTOCOLS >>>>>>>>>>>>>>>
+
+AUTHENTICATION PROTOCOLS 805
+8.9.1 Authentication Based on a Shared Secret Key 806
+8.9.2 Establishing a Shared Key: The Diffie-Hellman Key Exchange 811
+8.9.3 Authentication Using a Key Distribution Center 813
+8.9.4 Authentication Using Kerberos 816
+8.9.5 Authentication Using Public-Key Cryptography 819
+________________________________________________
+ Authentification Protocols                     |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Authentification Protocols 
+                                                                                        
+2) Definition of Authentification Protocols ?
+---------------------------------------------
+*
+ 
+3) What is Authentification Protocols About ?
+---------------------------------------------
+*
+*
+
+4) What does Authentification Protocols Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Authentification Protocols :
+------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Authentification Protocols :
+---------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Authentification Protocols :
+-------------------------------------------
+*
+*
+_____________________________________________________________________________________
+
+************* Authentication Based on a Shared Secret Key *************
+
++ Designing a Correct authentication protocol is much harder than it looks
+________________________________________________
+ Authentication Based on a Shared Secret Key    |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Authentication Based on a Shared Secret Key  
+                                                                                        
+2) Definition of Authentication Based on a Shared Secret Key ?
+--------------------------------------------------------------
+*
+ 
+3) What is Authentication Based on a Shared Secret Key About ?
+--------------------------------------------------------------
+*
+*
+
+4) What does Authentication Based on a Shared Secret Key Do ?
+-------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Authentication Based on a Shared Secret Key :
+-----------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Authentication Based on a Shared Secret Key :
+--------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Authentication Based on a Shared Secret Key :
+------------------------------------------------------------
+*
+*
+___________________________________________________________________________________
+
+\\\\ Designing a Correct authentication protocol is much harder than it looks ////
+__________________________________________________________________________
+ Designing a Correct authentication protocol is much harder than it looks |
+                                                                          |                  
+__________________________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Designing a Correct authentication protocol is much harder than it looks 
+                                                                                        
+2) Definition of Designing a Correct authentication protocol is much harder than it looks ?
+-------------------------------------------------------------------------------------------
+*
+ 
+3) What is Designing a Correct authentication protocol is much harder than it looks About ?
+-------------------------------------------------------------------------------------------
+*
+*
+
+4) What does Designing a Correct authentication protocol is much harder than it looks Do ?
+------------------------------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Designing a Correct authentication protocol is much harder than it looks :
+----------------------------------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Designing a Correct authentication protocol is much harder than it looks :
+-------------------------------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Designing a Correct authentication protocol is much harder than it looks :
+-----------------------------------------------------------------------------------------
+*
+*
+__________________________________________________________________________________________________________
+
+******** Establishing a Shared Key: The Diffie-Hellman Key Exchange ********
+
+____________________________________________________________
+ Establishing a Shared Key: The Diffie-Hellman Key Exchange |
+                                                            |                  
+____________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Establishing a Shared Key: The Diffie-Hellman Key Exchange 
+                                                                                        
+2) Definition of Establishing a Shared Key: The Diffie-Hellman Key Exchange ?
+-----------------------------------------------------------------------------
+*
+ 
+3) What is Establishing a Shared Key: The Diffie-Hellman Key Exchange About ?
+-----------------------------------------------------------------------------
+*
+*
+
+4) What do Establishing a Shared Key: The Diffie-Hellman Key Exchange Do ?
+--------------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Establishing a Shared Key: The Diffie-Hellman Key Exchange :
+--------------------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Establishing a Shared Key: The Diffie-Hellman Key Exchange :
+-----------------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Establishing a Shared Key: The Diffie-Hellman Key Exchange :
+---------------------------------------------------------------------------
+*
+*
+_______________________________________________________________________________________
+
+****************** Authentication Using a Key Distribution Center *****************
+_________________________________________________
+ Authentication Using a Key Distribution Center  |
+                                                 |                  
+_________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Authentication Using a Key Distribution Center
+                                                                                        
+2) Definition of Authentication Using a Key Distribution Center ?
+-----------------------------------------------------------------
+*
+ 
+3) What is Authentication Using a Key Distribution Center About ?
+-----------------------------------------------------------------
+*
+*
+
+4) What does Authentication Using a Key Distribution Center Do ?
+----------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Authentication Using a Key Distribution Center :
+--------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Authentication Using a Key Distribution Center :
+-----------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Authentication Using a Key Distribution Center :
+---------------------------------------------------------------
+* 
+* 
+_____________________________________________________________________________________
+
+**************** Authentication Using Kerberos ****************
+________________________________________________
+ Authentication Using Kerberos                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Authentication Using Kerberos 
+                                                                                        
+2) Definition of Authentication Using Kerberos ?
+------------------------------------------------
+*
+ 
+3) What is Authentication Using Kerberos About ?
+------------------------------------------------
+*
+*
+
+4) What do Authentication Using Kerberos Do ?
+---------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Authentication Using Kerberos :
+---------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Authentication Using Kerberos :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Authentication Using Kerberos :
+----------------------------------------------
+*
+*
+_____________________________________________________________________________________
+
+  \\\\ Authentication Using Public-Key Cryptography////
+________________________________________________
+ Authentication Using Public-Key Cryptography   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Authentication Using Public-Key Cryptography 
+                                                                                        
+2) Definition of Authentication Using Public-Key Cryptography ?
+---------------------------------------------------------------
+*
+ 
+3) What is Authentication Using Public-Key Cryptography About ?
+---------------------------------------------------------------
+*
+*
+
+4) What does Authentication Using Public-Key Cryptography Do ?
+--------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Authentication Using Public-Key Cryptography :
+------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Authentication Using Public-Key Cryptography :
+---------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Authentication Using Public-Key Cryptography :
+-------------------------------------------------------------
+*
+*
+_______________________________________________________________________________________
+_______________________________________________________________________________________
+
+<<<<<<<<<<<<<<<<< COMMUNICATION SECURITY >>>>>>>>>>>>>>>>>>
+
+COMMUNICATION SECURITY 819
+8.10.1 IPsec 820
+8.10.2 Virtual Private Networks 824
+8.10.3 Wireless Security 825
+________________________________________________
+ Communication Security                         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Communication Security
+                                                                                        
+2) Definition of Communication Security ?
+-----------------------------------------
+*
+ 
+3) What is Communication Security About ?
+-----------------------------------------
+*
+*
+
+4) What does Communication Security Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Communication Security :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Communication Security :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Communication Security :
+---------------------------------------
+*
+*
+
+______________________________________________________________________________________
+
+*********** IPsec ************
+________________________________________________
+ IPsec                                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* IPsec
+                                                                                        
+2) Definition of IPsec ?
+--------------------------------
+*
+ 
+3) What is IPsec About ?
+------------------------
+*
+*
+
+4) What does IPsec Do ?
+-----------------------
+*
+*
+
+5) Advantages/Benefits of IPsec Audio :
+---------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of IPsec Audio :
+------------------------------------------
+*
+*
+*  
+
+7) Examples of IPsec Audio :
+----------------------------
+*
+*
+_____________________________________________________________________________________
+
+**************** Virtual Private Networks ******************
+_________________________________________________
+ Virtual Private Networks                        |
+                                                 |                  
+_________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Virtual Private Networks
+                                                                                        
+2) Definition of Virtual Private Networks ?
+-------------------------------------------
+*
+ 
+3) What is Virtual Private Networks About ?
+-------------------------------------------
+*
+*
+
+4) What does Virtual Private Networks Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Virtual Private Networks :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Virtual Private Networks :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Virtual Private Networks :
+-----------------------------------------
+*
+*
+_____________________________________________________________________________________
+
+************ Wireless Security  ****************
+
+- Wireless Security 
+________________________________________________
+ Wireless Security                              |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Wireless Security 
+                                                                                        
+2) Definition of Wireless Security ?
+------------------------------------
+*
+ 
+3) What is Wireless Security About ?
+------------------------------------
+*
+*
+
+4) What does Wireless Security  Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Wireless Security :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Wireless Security :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Wireless Security :
+----------------------------------
+*
+*
+
+______________________________________________________________________________________
+
+<<<<<<<<<<<<<<<<<<< EMAIL SECURITY >>>>>>>>>>>>>>>>>>>
+
+EMAIL SECURITY 829
+8.11.1 Pretty Good Privacy 829
+8.11.2 S/MIME 833
+_________________________________________________
+ Email Security                                  |
+                                                 |                  
+_________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Email Security
+                                                                                        
+2) Definition of Email Security ?
+---------------------------------
+*
+ 
+3) What is Email Security About ?
+---------------------------------
+*
+*
+
+4) What does Email Security Do ?
+--------------------------------
+*
+*
+
+5) Advantages/Benefits of Email Security :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Email Security :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of Email Security :
+-------------------------------
+*
+*
+_____________________________________________________________________________________
+
+********** Pretty Good Privacy  **********
+
+________________________________________________
+ Pretty Good Privacy                            |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Pretty Good Privacy 
+                                                                                        
+2) Definition of Pretty Good Privacy ?
+--------------------------------------
+*
+ 
+3) What is Pretty Good Privacy About ?
+--------------------------------------
+*
+*
+
+4) What does Pretty Good Privacy Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Pretty Good Privacy :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Pretty Good Privacy :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Pretty Good Privacy :
+------------------------------------
+*
+*
+
+______________________________________________________________________________________
+
+************* S/MIME ***************
+_________________________________________________
+ S/MIME                                          |
+                                                 |                  
+_________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* S/MIME
+                                                                                        
+2) Definition of S/MIME ?
+-------------------------
+*
+ 
+3) What is S/MIME About ?
+-------------------------
+*
+*
+
+4) What does S/MIME Do ?
+------------------------
+*
+*
+
+5) Advantages/Benefits of S/MIME :
+----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of S/MIME :
+-------------------------------------
+*
+*
+*  
+
+7) Examples of S/MIME :
+-----------------------
+*
+*
+______________________________________________________________________________________
+______________________________________________________________________________________
+
+<<<<<<<<<<<<<<<< WEB SECURITY >>>>>>>>>>>>>>>>>
+
+WEB SECURITY 834
+8.12.1 Threats 834
+8.12.2 Secure Naming and DNSSEC 835
+8.12.3 Transport Layer Security 838
+8.12.4 Running Untrusted Code 842
+________________________________________________
+ Web Security                                   |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Web Security  
+                                                                                        
+2) Definition of Web Security ?
+-------------------------------
+*
+ 
+3) What is Web Security About ?
+-------------------------------
+* 
+* 
+
+4) What does Web Security Do ?
+------------------------------
+*
+*
+
+5) Advantages/Benefits of Web Security :
+----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Web Security :
+-------------------------------------------
+*
+*
+*  
+
+7) Examples of Web Security :
+-----------------------------
+*
+*
+______________________________________________________________________________________
+
+*************** Threats *****************
+
+_________________________________________________
+ Threats                                         |
+                                                 |                  
+_________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Threats 
+                                                                                        
+2) Definition of Threats ?
+--------------------------
+*
+ 
+3) What is Threats About ?
+-------------------------
+*
+*
+
+4) What does Threats Do ?
+-------------------------
+*
+*
+
+5) Advantages/Benefits of Threats :
+-----------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Threats :
+--------------------------------------
+*
+*
+*  
+
+7) Examples of Threats :
+------------------------
+*
+*
+_____________________________________________________________________________________
+
+************** Secure Naming and DNSSEC ****************
+
+________________________________________________
+ Secure Naming and DNSSEC                       |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Secure Naming and DNSSEC 
+                                                                                        
+2) Definition of Secure Naming and DNSSEC ?
+-------------------------------------------
+*
+ 
+3) What is Secure Naming and DNSSEC About ?
+-------------------------------------------
+*
+*
+
+4) What does Secure Naming and DNSSEC Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Secure Naming and DNSSEC :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Secure Naming and DNSSEC :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Secure Naming and DNSSEC :
+-----------------------------------------
+*
+*
+______________________________________________________________________________________
+
+***************** Transport Layer Security *******************
+
++ Running Untrusted Code
+_________________________________________________
+ Transport Layer Security                        |
+                                                 |                  
+_________________________________________________|
+            |
+            |
+1) What's the Heading ?
+---------------------------
+* Transport Layer Security 
+                                                                                        
+2) Definition of Transport Layer Security ?
+-------------------------------------------
+*
+ 
+3) What is Transport Layer Security About ?
+-------------------------------------------
+*
+*
+
+4) What does Transport Layer Security Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Transport Layer Security :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Transport Layer Security :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Transport Layer Security :
+-----------------------------------------
+*
+*
+_____________________________________________________________________________________
+
+*********** Running Untrusted Code *************
+
++ Scripting Code in the Browser
++ Browser Extensions
++ Trojans and Other Malware 
+________________________________________________
+ Running Untrusted Code                         |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Running Untrusted Code 
+                                                                                        
+2) Definition of Running Untrusted Code ?
+-----------------------------------------
+*
+ 
+3) What is Running Untrusted Code About ?
+-----------------------------------------
+*
+*
+
+4) What does Running Untrusted Code Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Running Untrusted Code :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Running Untrusted Code :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of Running Untrusted Code :
+---------------------------------------
+*
+*
+_____________________________________________________________________________________
+
+  \\\\ Scripting Code in the Browser ////
+________________________________________________
+ Scripting Code in the Browser                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Scripting Code in the Browser  
+                                                                                        
+2) Definition of Scripting Code in the Browser ?
+------------------------------------------------
+*
+ 
+3) What is Scripting Code in the Browser About ?
+------------------------------------------------
+*
+*
+
+4) What does Scripting Code in the Browser Do ?
+-----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Scripting Code in the Browser :
+---------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Scripting Code in the Browser :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Scripting Code in the Browser :
+----------------------------------------------
+*
+*
+_____________________________________________________________________________________
+
+  \\\\ Browser Extensions ////
+________________________________________________
+ Browser Extensions                             |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Browser Extensions 
+                                                                                        
+2) Definition of Browser Extensions ?
+-------------------------------------
+*
+ 
+3) What is Browser Extensions About ?
+-------------------------------------
+*
+*
+
+4) What does Browser Extensions Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of Browser Extensions :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Browser Extensions :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of Browser Extensions :
+-----------------------------------
+*
+*
+_____________________________________________________________________________________
+
+  \\\\ Trojans and Other Malware ////
+________________________________________________
+ Trojans and Other Malware                      |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Trojans and Other Malware 
+                                                                                        
+2) Definition of Trojans and Other Malware ?
+--------------------------------------------
+*
+ 
+3) What is Trojans and Other Malware About ?
+--------------------------------------------
+*
+*
+
+4) What does Trojans and Other Malware Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Trojans and Other Malware :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Trojans and Other Malware :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Trojans and Other Malware :
+------------------------------------------
+*
+*
+_____________________________________________________________________________________
+<<<<<<<<<<<< SOCIAL ISSUES >>>>>>>>>>>>
+
+SOCIAL ISSUES 844
+8.13.1 Confidential and Anonymous Communication 844
+8.13.2 Freedom of Speech 847
+8.13.3 Copyright 851
+________________________________________________
+ Social Issues                                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Social Issues
+                                                                                        
+2) Definition of Social Issues ?
+--------------------------------
+*
+ 
+3) What is Social Issues About ?
+--------------------------------
+*
+*
+
+4) What does Social Issues Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of Social Issues :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Social Issues :
+--------------------------------------------
+* 
+* 
+*  
+
+7) Examples of Social Issues :
+------------------------------
+*
+*
+____________________________________________________________________________________
+
+********** Confidential and Anonymous Communication ***********
+
++ Anonymous Remailers
+________________________________________________
+ Confidential and Anonymous Communication       |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Confidential and Anonymous Communication
+                                                                                        
+2) Definition of Confidential and Anonymous Communication ?
+-----------------------------------------------------------
+*
+ 
+3) What is Confidential and Anonymous Communication About ?
+-----------------------------------------------------------
+*
+*
+
+4) What does Confidential and Anonymous Communication Do ?
+----------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Confidential and Anonymous Communication :
+--------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Confidential and Anonymous Communication :
+-----------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Confidential and Anonymous Communication :
+---------------------------------------------------------
+*
+* 
+
+______________________________________________________________________________________
+
+  \\\\ Anonymous Remailers ////
+________________________________________________
+ Anonymous Remailers                            |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Anonymous Remailers 
+                                                                                        
+2) Definition of Anonymous Remailers ?
+--------------------------------------
+*
+ 
+3) What is Anonymous Remailers About ?
+--------------------------------------
+*
+*
+
+4) What does Anonymous Remailers Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Anonymous Remailers :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Anonymous Remailers :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Anonymous Remailers :
+------------------------------------
+*
+*
+____________________________________________________________________________________
+
+************ Freedom of Speech *************
+
++ Steganography
+________________________________________________
+ Freedom of Speech                              |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+------------------------
+* Freedom of Speech
+                                                                                        
+2) Definition of Freedom of Speech ?
+------------------------------------
+*
+ 
+3) What is Freedom of Speech About ?
+------------------------------------
+*
+*
+
+4) What do Freedom of Speech Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of Freedom of Speech :
+---------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Freedom of Speech :
+------------------------------------------------
+*
+*
+*  
+
+7) Examples of Freedom of Speech :
+----------------------------------
+*
+*
+______________________________________________________________________________________
+
+  \\\\ Steganography ////
+________________________________________________
+ Steganography                                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Steganography 
+                                                                                        
+2) Definition of Steganography ?
+--------------------------------
+*
+ 
+3) What is Steganography About ?
+--------------------------------
+*
+*
+
+4) What does Steganography Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of Steganography :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Steganography :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of Steganography :
+------------------------------
+*
+*
+_____________________________________________________________________________________
+
+*********** Copyright *************
+
+_________________________________________________
+ Copyright                                       |
+                                                 |                  
+_________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Copyright
+                                                                                        
+2) Definition of Copyright ?
+----------------------------
+*
+ 
+3) What is Copyright About ?
+----------------------------
+*
+*
+
+4) What does Copyright Do ?
+---------------------------
+*
+*
+
+5) Advantages/Benefits of Copyright :
+-------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Copyright :
+----------------------------------------
+*
+*
+*  
+
+7) Examples of Copyright :
+--------------------------
+*
+*
+_____________________________________________________________________________________
+
+<<<<<<<<<<<<<<<<<< SUMMARY OF NETWORK SECURITY >>>>>>>>>>>>>>>>>>>>>
+
+________________________________________________
+ Summary Of Network Security                    |
+                                                |                  
+________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Summary Of Network Security 
+                                                                                        
+2) Definition of Summary Of Network Security ?
+----------------------------------------------
+*
+ 
+3) What is Summary Of Network Security About ?
+----------------------------------------------
+*
+*
+
+4) What does Summary Of Network Security Do ?
+---------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Summary Of Network Security :
+-------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Summary Of Network Security :
+----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Summary Of Network Security :
+--------------------------------------------
+*
+*
+________________________________________________________________________
+
